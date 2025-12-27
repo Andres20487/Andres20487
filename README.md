@@ -148,14 +148,6 @@ bases_de_datos:
 - **SPAs con Vue.js**: aplicaciones reactivas y componentes reutilizables
 - **APIs RESTful**: servicios backend escalables y documentados
 - **Integraciones**: conexión con servicios externos y bases de datos
-
-### 🔬 Ejercicios y Práctica
-> Soluciones a problemas de lógica, algoritmos y desafíos de código
-
-- Retos de plataformas como LeetCode, HackerRank
-- Implementación de patrones de diseño
-- Pruebas de concepto con nuevas tecnologías
-
 ---
 
 ## 📈 Filosofía de Desarrollo
