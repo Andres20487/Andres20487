@@ -24,7 +24,6 @@
 const developer = {
   name: "Andrés Aguirre",
   role: "Full Stack Developer",
-  company: "Cubit Syc",
   location: "Rionegro, Antioquia, Colombia",
   
   passions: {
