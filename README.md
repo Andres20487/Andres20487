@@ -49,7 +49,7 @@ Desarrollador de software apasionado por crear **soluciones web funcionales y bi
 <table>
 <tr>
 <td width="30%"><strong>🏢 Empresa</strong></td>
-<td width="70%">Cubit Syc</td>
+<td width="70%"> Syc</td>
 </tr>
 <tr>
 <td><strong>👨‍💻 Rol</strong></td>
